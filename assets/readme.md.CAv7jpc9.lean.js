@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DKKlJIzX.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"readme.md","filePath":"readme.md","lastUpdated":null}'),r={name:"readme.md"};function o(s,d,n,c,m,p){return a(),t("div")}const l=e(r,[["render",o]]);export{i as __pageData,l as default};
